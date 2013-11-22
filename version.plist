@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>build_number</key>
+	<string>166</string>
+	<key>delivery_number</key>
+	<string>10</string>
+	<key>product_name</key>
+	<string>HP RUM CM</string>
+	<key>product_version</key>
+	<string>9.23</string>
+</dict>
+</plist>
