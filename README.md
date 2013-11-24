@@ -1,6 +1,7 @@
 You use the  RUM mobile solution to enable the  RUM Browser Probe to acquire mobile application data through mobile devices. 
 This requires you to instrument the mobile apps. To instrument an iOS app, you must make changes to the project Xcode. 
 The changes include adding a number of frameworks to the project, but no code changes are made.
+
 ------------------------------------
 To Install the RUMService Framework:
 ------------------------------------
